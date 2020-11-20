@@ -1,0 +1,1 @@
+Just a simple text document to test in git
